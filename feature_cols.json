@@ -1,0 +1,34 @@
+{
+  "daily": [
+    "Category_Enc",
+    "Product_Name_Enc",
+    "Store_Branch_Enc",
+    "DayOfWeek",
+    "DayOfMonth",
+    "MonthNum",
+    "WeekOfYear",
+    "IsWeekend",
+    "Quarter",
+    "Avg_Price",
+    "Transactions"
+  ],
+  "weekly": [
+    "Category_Enc",
+    "Product_Name_Enc",
+    "Store_Branch_Enc",
+    "WeekOfYear",
+    "MonthNum",
+    "Quarter",
+    "Avg_Price",
+    "Transactions"
+  ],
+  "monthly": [
+    "Category_Enc",
+    "Product_Name_Enc",
+    "Store_Branch_Enc",
+    "MonthNum",
+    "Quarter",
+    "Avg_Price",
+    "Transactions"
+  ]
+}
