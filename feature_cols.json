@@ -1,8 +1,8 @@
 {
   "daily": [
     "Category_Enc",
-    "Product_Name_Enc",
-    "Store_Branch_Enc",
+    "Product_Enc",
+    "Store_Category_Enc",
     "DayOfWeek",
     "DayOfMonth",
     "MonthNum",
@@ -14,8 +14,8 @@
   ],
   "weekly": [
     "Category_Enc",
-    "Product_Name_Enc",
-    "Store_Branch_Enc",
+    "Product_Enc",
+    "Store_Category_Enc",
     "WeekOfYear",
     "MonthNum",
     "Quarter",
@@ -24,8 +24,8 @@
   ],
   "monthly": [
     "Category_Enc",
-    "Product_Name_Enc",
-    "Store_Branch_Enc",
+    "Product_Enc",
+    "Store_Category_Enc",
     "MonthNum",
     "Quarter",
     "Avg_Price",
