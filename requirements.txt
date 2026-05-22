@@ -4,3 +4,4 @@ xgboost
 joblib
 numpy
 pandas
+gunicorn
